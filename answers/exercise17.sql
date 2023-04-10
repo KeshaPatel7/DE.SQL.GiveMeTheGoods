@@ -1,1 +1,1 @@
-SELECT Students AS Learners FROM Students;
+SELECT StudentsName, Address, City, PostalCode, Country, id From Students aslearners;
